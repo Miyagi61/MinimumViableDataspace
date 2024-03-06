@@ -1,6 +1,7 @@
 {
-  "dataManagementApiUrl": "http://localhost:9192/api/management",
-  "storageAccount": "company2assets",
+  "managementApiUrl": "http://localhost:9192/api/management",
+  "catalogUrl": "http://localhost:9192/api/management",
+  "storageAccount": "testlfgfcompany2assets",
   "storageExplorerLinkTemplate": "storageexplorer://v=1",
   "theme": "theme-2"
 }
